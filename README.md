@@ -1,2 +1,4 @@
-# project-ideas
+# Project Ideas
 Project ideas listing for OSS
+
+
